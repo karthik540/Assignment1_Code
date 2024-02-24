@@ -9,7 +9,6 @@ limit = 20
 
 location = "Manhattan"
 
-
 current_time = datetime.datetime.now()
 
 def extract_data_yelp(cuisine):
